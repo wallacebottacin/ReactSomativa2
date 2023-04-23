@@ -1,0 +1,26 @@
+.App {
+  text-align: left;
+  width: 200px;
+}
+
+.Login {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.CssMensagemPadrao {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.CssMensagemSucesso {
+  font-weight: bold;
+  font-size: 16px;
+  color: rgb(42, 164, 42);
+}
+
+.CssMensagemErro {
+  font-weight: bold;
+  font-size: 16px;
+  color: rgb(251, 0, 0);
+}
